@@ -1,1 +1,1 @@
-[A Mathemagical Adventure](https://mr-j-hong.github.io/FMP10)
+[Quests for the Mathemagical Gems](https://mr-j-hong.github.io/MathemagicalGems)
